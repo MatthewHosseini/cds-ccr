@@ -1,4 +1,4 @@
-## Notebooks (Credit, CCR, Rates)
+## Front Office (FO) Notebooks
 
 ### `scripts/vector_ai.ipynb`
 Notebook exploring a **CCR-oriented credit workflow** with an emphasis on a **data / vector-AI** style approach (feature engineering, representations, and downstream analytics). This is the current “active” CCR notebook in the repo. Notes and notebooks for **CDS curve calibration** and **hazard-rate / intensity construction** (and, where relevant, mapping into default probability / intensity matrices for CCR-style simulations) are **planned** and will be added in upcoming commits.
